@@ -81,7 +81,7 @@ requests==2.25.1
     #   tensorboard
 rsa==4.7
     # via google-auth
-scikit-learn==0.24.1
+scikit-learn==0.24.2
     # via -r requirements.in
 scipy==1.6.0
     # via scikit-learn
@@ -112,7 +112,7 @@ threadpoolctl==2.1.0
     # via scikit-learn
 typing-extensions==3.7.4.3
     # via tensorflow
-urllib3==1.26.2
+urllib3==1.26.5
     # via requests
 werkzeug==1.0.1
     # via tensorboard
