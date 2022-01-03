@@ -42,7 +42,7 @@ keras-preprocessing==1.1.2
     # via tensorflow
 markdown==3.3.3
     # via tensorboard
-numpy==1.19.5
+numpy==1.22.0
     # via
     #   -r requirements.in
     #   h5py
