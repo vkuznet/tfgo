@@ -59,7 +59,7 @@ opt-einsum==3.3.0
     # via tensorflow
 pandas==1.2.1
     # via -r requirements.in
-protobuf==3.14.0
+protobuf==3.18.3
     # via
     #   tensorboard
     #   tensorflow
